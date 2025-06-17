@@ -12,9 +12,7 @@ In the agriculture industry, farmers often face challenges in identifying diseas
 2. Installation
 3. Usage
 4. Features
-5. Contributing
-6. License
-7. Contact
+5. Contact
 
 <br />
 
